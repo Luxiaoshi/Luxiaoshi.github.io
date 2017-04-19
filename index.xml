@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Start Bootstrap Clean Blog</title>
+    <link>http://www.lxsxdy.com/</link>
+    <description>Recent content on Start Bootstrap Clean Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Wed, 19 Apr 2017 16:48:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.lxsxdy.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>first</title>
+      <link>http://www.lxsxdy.com/post/first/</link>
+      <pubDate>Wed, 19 Apr 2017 16:48:23 +0800</pubDate>
+      
+      <guid>http://www.lxsxdy.com/post/first/</guid>
+      <description>lxssssss</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://www.lxsxdy.com/about/</link>
+      <pubDate>Wed, 19 Apr 2017 16:48:02 +0800</pubDate>
+      
+      <guid>http://www.lxsxdy.com/about/</guid>
+      <description>lxs</description>
+    </item>
+    
+  </channel>
+</rss>
